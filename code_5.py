@@ -5,7 +5,7 @@ def main(computer_option = None):
    if computer_option is None:
       computer_option = random.randint(1,3)
    computer_choice = options_dictionary[computer_option]
-   # Implement your code HERE. Usen computer_choice to obtain computer play
+   # Implement your code HERE. See line 7 how the numerical choice can be transformed to a value.
    
     
 # Do not remove the lines below
